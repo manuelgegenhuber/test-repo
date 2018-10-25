@@ -6,5 +6,4 @@ Edited on the example branch
 
 No editing on update-readme branch
 
-updated locally, then remotly
-remotely again
+Updats made on master on Github before rebase
